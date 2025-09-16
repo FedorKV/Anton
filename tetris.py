@@ -439,3 +439,4 @@ def drawnextFig(fig):  # превью следующей фигуры
 
 if __name__ == '__main__':
     main()
+print("that was tetris")
